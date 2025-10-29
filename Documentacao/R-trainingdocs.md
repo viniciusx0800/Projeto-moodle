@@ -78,27 +78,21 @@ O escopo deste trabalho abrange:
 
 A validação realizada confirma que o **Moodle** atende plenamente às exigências de rastreabilidade, controle de presença e comprovação de conclusão dos treinamentos corporativos.  
 
-### Recomendações:
-- Documentar detalhadamente a **configuração de cada plugin** em arquivos separados (README específicos);  
-- Criar um **modelo padrão de curso** com todas as configurações replicáveis;  
-- Registrar os **processos de geração de certificados e listas de presença** para auditoria futura;  
-- Incluir monitoramento de **logs de acesso e conclusão** dos usuários para evidências de conformidade.
+
 
 ---
 
-## 7. 📎 Anexos e Evidências (opcional)
-- Capturas de tela do curso e dos plugins instalados;  
-- Modelos de certificado gerado;  
-- Exemplo de relatório de presença automatizado;  
-- Logs de conclusão e progresso.  
-
+## 7. 📎 Anexos e Evidências 
+- plugin presença (mod_attendance)
+- plugin Certificado personalizado (mod_customcert)
+- plugin Vídeo Time (mod_videotime)
+  - ![print dos plugins instalados](assets/image.png)
+- **Curso de teste**
+    - ![print do curso]()
 ---
 
 ## 8. 🧠 Próximos Passos (opcional)
-- Expandir uso do Moodle para treinamentos de **segurança, compliance e integração**;  
-- Desenvolver **painel de relatórios personalizados** para acompanhamento de desempenho;  
-- Implementar **envio automático de certificados por e-mail** via SMTP;  
-- Integrar dados de conclusão com sistemas internos de RH.  
+
 
 ---
 
