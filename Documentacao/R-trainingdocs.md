@@ -81,20 +81,115 @@ A validação realizada confirma que o **Moodle** atende plenamente às exigênc
 
 
 ---
+## 7. 📎 Anexos e Evidências
 
-## 7. 📎 Anexos e Evidências 
-- plugin presença (mod_attendance)
-- plugin Certificado personalizado (mod_customcert)
-- plugin Vídeo Time (mod_videotime)
-  - ![print dos plugins instalados](assets/image.png)
-- **Curso de teste**
-    - ![print do curso]()
----
-
-## 8. 🧠 Próximos Passos (opcional)
-
+Esta seção reúne os **registros visuais e descritivos** de todas as etapas de validação do ambiente Moodle, incluindo a instalação de plugins, configuração de curso, controle de presença, avaliação final e emissão de certificados.
 
 ---
+
+### 🧩 **Plugins Instalados**
+![Print dos plugins instalados](assets/image.png)
+
+> Os plugins instalados incluem extensões essenciais para o cumprimento dos requisitos definidos pelo setor de Qualidade, tais como o **Attendance (Presença)** e **Custom Certificate** , entre outros módulos de suporte.
+
+---
+
+### 🎓 **Curso de Teste**
+![Print do curso](assets/curso_teste.png)
+
+#### 🔍 **Visão Geral do Curso**
+![Visão do curso](assets/visão_do_curso.png)  
+![Visão do curso (continuação)](assets/visão_do_curso2.jpg)
+
+> O curso de teste foi criado especificamente para simular todas as etapas de um treinamento corporativo completo — desde a exibição dos vídeos até a emissão do certificado.  
+> A estrutura do curso inclui seções modulares com vídeos interativos, glossário de presença, fórum de registro, questionário de avaliação e certificado final automático.
+
+---
+
+### 🧾 **Lista de Presença Interativa (Assinada pelos Alunos)**
+
+#### 📘 Glossário de Controle de Presença
+![Glossário de controle de presença](assets/glosario_lista.png)
+
+> Utilizou-se a **ferramenta Glossário** do Moodle como meio de registro interativo da presença.  
+> Cada colaborador insere sua “assinatura digital” no glossário, o que permite rastrear o nome e o momento do registro.  
+> Após a assinatura, o aluno é automaticamente marcado como presente no curso, atendendo aos critérios exigidos para obtenção do certificado.
+
+#### 💬 Fórum de Controle de Presença
+![Fórum de controle de presença](assets/forum_presenca.png)
+
+> A opção de **fórum de presença** foi adotada como alternativa principal, pois o sistema já registra automaticamente o nome do participante, a data e a hora da publicação.  
+> Essa abordagem facilita a verificação pelos instrutores e mantém evidências claras de participação.
+
+---
+
+### 📆 **Plugin de Presença (Attendance)**
+![Interface do plugin de presença](assets/presenca.jpg)  
+![Adição de sessões de presença](assets/presenca_add.png)  
+![Configuração detalhada](assets/presenca_add2.png)  
+![Presença finalizada com sucesso](assets/presenca_finalizada.png)
+
+#### 📊 Relatório de Presenças
+![Relatório das presenças](assets/relatorio_das_presencas.png)
+
+> O **relatório automatizado de presenças** apresenta o registro completo de todos os participantes, datas, horários e status de comparecimento.  
+> Esses dados podem ser exportados para planilhas e utilizados como evidência documental em auditorias internas e externas.
+
+---
+
+### 🧠 **Avaliação Final**
+![Tela da avaliação final](assets/avaliacao.png)  
+![Questão da avaliação](assets/avaliacao_questao.png)  
+![Avaliação finalizada](assets/avaliacao_finalizada.png)
+
+> A avaliação foi configurada utilizando o **módulo de Questionário (Quiz)** do Moodle, com nota mínima de **6,0** e até **3 tentativas permitidas**.  
+> O sistema bloqueia a emissão do certificado até que o aluno alcance a nota mínima, garantindo o cumprimento dos critérios de aprovação definidos pelo setor de Qualidade.
+
+---
+
+### 🏆 **Certificados de Conclusão e Participação**
+
+#### 👥 Visão do Aluno
+![Visão dos certificados dos alunos](assets/alunos_certificado.jpg)
+
+> Nesta tela, os alunos visualizam seus certificados após cumprirem todos os requisitos do curso (presença, visualização dos vídeos e aprovação na avaliação final).
+
+---
+
+#### 📜 **Certificado de Teste 01**
+![Certificado 01](assets/certicado_01.png)
+
+> Este modelo contém as informações principais do treinamento:
+> - Nome curto do curso  
+> - Nome do professor  
+> - Nome do aluno  
+> - Data de conclusão  
+> - Nota final (em porcentagem)  
+> - Código QR para verificação de autenticidade  
+
+---
+
+#### 📜 **Certificado de Teste 02**
+![Certificado 02](assets/certificado_02.png)
+
+> Modelo aprimorado em relação ao primeiro, com layout mais organizado e adição de uma **imagem de fundo personalizada**, fornecendo **identidade visual institucional** ao certificado.
+
+---
+
+#### 🏅 **Certificado Validado pelo Setor de Qualidade**
+![Certificado do setor de qualidade](assets/certificado_qualidade.png)
+
+> Este foi o modelo oficial aprovado pelo **Setor de Qualidade**, após alinhamento sobre design e informações obrigatórias.  
+> O layout final atendeu exatamente à interface desejada e está em conformidade com os padrões de comunicação visual da empresa.
+
+-
+
+> **Resumo:**  
+> Todos os recursos apresentados (presença, avaliação, certificados e interação via Moodle) foram testados e validados, comprovando que a plataforma cumpre os requisitos de rastreabilidade, controle e comprovação exigidos para os treinamentos corporativos.
+
+
+
+-
 
 > **Documento criado por:** Marcos Vinicius  
 > **Data:** 28/10/2025  
