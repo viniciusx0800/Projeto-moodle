@@ -1,7 +1,11 @@
+---
+marp: true
+---
+
 # 📘 Documentação R-training  
 ## Validação da Plataforma Moodle para Treinamentos de Auditoria
 
----
+
 
 ### 🏢 Empresa
 *RENOVA SOLUÇÕES EM TECNOLOGIA LTDA*  
@@ -12,13 +16,12 @@
 ### 📅 Período de Execução
 *Setembro a Outubro de 2025*
 
----
+
 
 ## 1. 🎯 Objetivo do Projeto
 Validar a plataforma **Moodle** como ferramenta oficial para fornecimento de treinamentos corporativos voltados à preparação dos colaboradores para auditorias **internas e externas**.  
 O projeto visa assegurar que o sistema atenda aos requisitos definidos pelo **Setor de Qualidade**, com foco em rastreabilidade, conformidade normativa (ex: **ISO 37301**) e efetividade dos treinamentos.
 
----
 
 ## 2. 🧭 Escopo
 O escopo deste trabalho abrange:
@@ -41,7 +44,6 @@ O escopo deste trabalho abrange:
 | 4 | Registro Automatizado de Presença | Gerar lista de presença com data, horário e identificação. | Plugin **Attendance (Presença)**, configurado no curso. | ✅ Atende |
 | 5 | Avaliação Pós-Treinamento | Prova com nota mínima 6 e até 3 tentativas. | **Atividade de Questionário (Quiz)** do Moodle, configurada com critérios de aprovação. | ✅ Atende |
 
----
 
 ## 4. ⚙️ Ações Executadas
 
@@ -72,20 +74,16 @@ O escopo deste trabalho abrange:
 - Os vídeos integrados via **YouTube + H5P** funcionaram sem sobrecarga do servidor.  
 - O ambiente está **pronto para uso nos treinamentos de auditoria** e preparado para expansão futura a outros tipos de capacitação corporativa.
 
----
-
 ## 6. 🧩 Considerações Finais
 
 A validação realizada confirma que o **Moodle** atende plenamente às exigências de rastreabilidade, controle de presença e comprovação de conclusão dos treinamentos corporativos.  
 
 
 
----
 ## 7. 📎 Anexos e Evidências
 
 Esta seção reúne os **registros visuais e descritivos** de todas as etapas de validação do ambiente Moodle, incluindo a instalação de plugins, configuração de curso, controle de presença, avaliação final e emissão de certificados.
 
----
 
 ### 🧩 **Plugins Instalados**
 ![Print dos plugins instalados](assets/image.png)
@@ -120,8 +118,6 @@ Esta seção reúne os **registros visuais e descritivos** de todas as etapas de
 
 > A opção de **fórum de presença** foi adotada como alternativa principal, pois o sistema já registra automaticamente o nome do participante, a data e a hora da publicação.  
 > Essa abordagem facilita a verificação pelos instrutores e mantém evidências claras de participação.
-
----
 
 ### 📆 **Plugin de Presença (Attendance)**
 ![Interface do plugin de presença](assets/presenca.jpg)  
@@ -167,7 +163,6 @@ Esta seção reúne os **registros visuais e descritivos** de todas as etapas de
 > - Nota final (em porcentagem)  
 > - Código QR para verificação de autenticidade  
 
----
 
 #### 📜 **Certificado de Teste 02**
 ![Certificado 02](assets/certificado_02.png)
